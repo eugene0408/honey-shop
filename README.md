@@ -1,4 +1,4 @@
-# Honey Shop – Vanilla JS Online Store
+# Honey Shop – Online Store
 
 A simple online store built with **HTML**, **Sass**, and **jQuery**, featuring basic e-commerce functionality and a Telegram-based order system.
 
