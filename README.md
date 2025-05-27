@@ -20,7 +20,7 @@ A simple online store built with **HTML**, **Sass**, and **jQuery**, featuring b
 - **LocalStorage**
 - **PHP** (for sending form data to Telegram)
 
-Live: https://eugene0408.github.io/honey_shop/
+Live: https://eugene0408.github.io/honey-shop/
 <pre>
 Preview:
 </pre>
